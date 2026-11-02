@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__/
+proposals.db
+bellhaven_communities.csv
